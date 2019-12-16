@@ -31,7 +31,7 @@
     "gatsby-plugin-sass": "^2.0.11",
     "gatsby-plugin-sharp": "^2.2.19",
     "gatsby-plugin-webpack-bundle-analyzer": "^1.0.4",
-    "gatsby-source-filesystem": "^2.0.28",
+    "gatsby-source-filesystem": "^2.1.40",
     "gatsby-transformer-json": "^2.1.11",
     "gatsby-transformer-sharp": "^2.2.13",
     "gsap": "^2.1.3",
